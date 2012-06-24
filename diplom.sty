@@ -16,6 +16,7 @@
 \usepackage{ulem} % подчеркивания
 \usepackage{enumerate}
 \usepackage{paralist}
+%\usepackage[style=numeric-comp]{biblatex}
 %\bibliographystyle{ieeetr}
 
 \usepackage{setspace}
@@ -29,36 +30,73 @@
 %\DeclareSymbolFont{T2Aletters}{T2A}{cmr}{m}{it}
 
 %Подписи к рисункам и таблицам
-\usepackage[tableposition=top]{caption}
+\usepackage[tableposition=top, margin={1.57cm,0cm}, singlelinecheck=off]{caption}
 \usepackage{subcaption}
-%\usepackage{subfig}
-\DeclareCaptionFont{small}{\small}
+
+%\usepackage[caption=false]{subfig}
+\DeclareCaptionFont{small}{\small\bfseries}
 \DeclareCaptionLabelFormat{gostfigure}{\small Рисунок #2}
 \DeclareCaptionLabelFormat{gosttable}{Таблица #2}
 \DeclareCaptionLabelSeparator{gost}{~---~}
 \captionsetup{labelsep=gost,font=small}
 \captionsetup[figure]{labelformat=gostfigure}
+\captionsetup[figure]{format=plain}
 \captionsetup[table]{labelformat=gosttable}
 \renewcommand{\thesubfigure}{\asbuk{subfigure}}
 \renewcommand{\thefigure}{\thesection.\arabic{figure}}
 
 \numberwithin{equation}{section}%Номера формул
 
-% \usepackage{tocloft}
-%\renewcommand{\cfttoctitlefont}{\hspace{0.38\textwidth} \bfseries\MakeUppercase}
-%\renewcommand{\cfttoctitlefont}{\Large \bf \MakeUppercase}
-% \renewcommand*\contentsname{ОГЛАВЛЕНИЕ}
+%-----start
+% \renewcommand*{\l@section}[2]{%
+%   \leftskip \cftsecindent\relax
+%      \rightskip \@tocrmarg
+%      \parfillskip -\rightskip
+%      \parindent \cftsecindent\relax\@afterindenttrue
+%      \interlinepenalty\@M
+%      \leavevmode
+%      \@tempdima \cftsecnumwidth\relax
+%      \let\@cftasnum \cftsecaftersnum
+%      \let\@cftasnumb \cftsecaftersnumb
+%      \advance\leftskip \@tempdima \null\nobreak\hskip -\leftskip
+%      {\normalfont\MakeUppercase{#1}\nobreak
+%      {\cftsecleader}
+%      \nobreak
+%      \hb@xt@\@pnumwidth{\hfil\cftsecpagefont #2}\cftsecafterpnum\par}%
+% }
+%-----stop
 
+% \usepackage{tocloft}
+% \renewcommand{\cfttoctitlefont}{\hspace{0.38\textwidth} \bfseries\MakeUppercase}
 % \renewcommand{\cftbeforetoctitleskip}{-1em}
- %\renewcommand{\cftaftertoctitle}{\mbox{}\hfill \\ \mbox{}\hfill{\footnotesize Стр.}\vspace{-2.5em}}
-%\renewcommand{\cftchapfont}{\normalsize\bfseries \MakeUppercase{\chaptername} }
+% \renewcommand{\cftaftertoctitle}{\mbox{}\hfill \\ \mbox{}\hfill{\footnotesize Стр.}\vspace{-2.5em}}
+% \renewcommand{\cftchapfont}{\normalsize\bfseries \MakeUppercase{\chaptername} }
 % \renewcommand{\cftsecfont}{\hspace{31pt}}
 % \renewcommand{\cftsubsecfont}{\hspace{11pt}}
-%\renewcommand{\cftbeforechapskip}{1em}
+% \renewcommand{\cftbeforechapskip}{1em}
 % \renewcommand{\cftparskip}{-1mm}
 % \renewcommand{\cftdotsep}{1}
-%\renewcommand{\cftindent}{15mm}
-\setcounter{tocdepth}{2}
+\setcounter{tocdepth}{2} % задать глубину оглавления — до subsection включительно
+
+ \usepackage{titletoc}
+\titlecontents{section}[1.5em]
+{\addvspace{.5em} \bfseries}
+{\contentslabel{1.5em}\MakeUppercase}
+{\hspace*{-1.5em}}
+{\titlerule*[1pc]{\textnormal{.}}\contentspage}
+
+
+% [0pt]
+% {\addvspace{1pc}%
+% \itshape}%
+% {\contentsmargin{0pt}%
+% \bfseries
+% \makebox[0pt][r]{\huge\thecontentslabel\enspace}%
+% \large}
+% {\contentsmargin{0pt}%
+% \large}
+% {\quad\thepage}
+% [\addvspace{.5pc}]
 
 %Заголовки
 \usepackage[explicit]{titlesec}
@@ -70,7 +108,7 @@
     {\bfseries}{}
  
 \titleformat{\section}
-    {\Large\bfseries\parindent15mm}
+    {\large\bfseries\parindent15mm}
 	{\thesection}
     {1em}{\MakeUppercase{#1}}
 	
@@ -80,6 +118,7 @@
     {1em}{#1}
  
 %\sloppy %нестрогое выравнивание
+\setlength{\parskip}{0mm} %межабзацный интервал
  
 % Настройка вертикальных и горизонтальных отступов
 \titlespacing*{\chapter}{0pt}{-30pt}{8pt}
@@ -88,7 +127,7 @@
  
 \hyphenation{распоз-на-ва-ния}
  
-\addto\captionsrussian{\renewcommand\refname{Список использованных источников}} 
+\addto\captionsrussian{\renewcommand\refname{СПИСОК ИСПОЛЬЗОВАННЫХ ИСТОЧНИКОВ}} 
 
 \ESKDauthor{Ряховский А.А}
 \ESKDchecker{Жиляков Е.Г.}

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2012.3.29)  16 JUN 2012 02:02
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2012.3.29)  22 JUN 2012 15:01
 entering extended mode
 **vkr.tex
 (C:\Users\Uz0r\Documents\vkr\vkr.tex
@@ -923,17 +923,21 @@ Package: subcaption 2012/01/12 v1.1d Sub-captions (AR)
 \c@subfigure=\count138
 \c@subtable=\count139
 )
+("C:\Program Files\MiKTeX 2.9\tex\latex\titlesec\titletoc.sty"
+Package: titletoc 2011/12/15 v1.6 TOC entries
+\ttl@leftsep=\dimen139
+)
 ("C:\Program Files\MiKTeX 2.9\tex\latex\titlesec\titlesec.sty"
 Package: titlesec 2011/12/15 v2.10.0 Sectioning titles
 \ttl@box=\box39
 \beforetitleunit=\skip93
 \aftertitleunit=\skip94
-\ttl@plus=\dimen139
-\ttl@minus=\dimen140
+\ttl@plus=\dimen140
+\ttl@minus=\dimen141
 \ttl@toksa=\toks37
-\titlewidth=\dimen141
-\titlewidthlast=\dimen142
-\titlewidthfirst=\dimen143
+\titlewidth=\dimen142
+\titlewidthlast=\dimen143
+\titlewidthfirst=\dimen144
 ))
 (C:\Users\Uz0r\Documents\vkr\vkr.aux)
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
@@ -999,13 +1003,13 @@ Package lastpage Info: Please have a look at the pageslts package at
 ("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count140
-\scratchdimen=\dimen144
+\scratchdimen=\dimen145
 \scratchbox=\box40
 \nofMPsegments=\count141
 \nofMParguments=\count142
 \everyMPshowfont=\toks38
 \MPscratchCnt=\count143
-\MPscratchDim=\dimen145
+\MPscratchDim=\dimen146
 \MPnumerator=\count144
 \makeMPintoPDFobject=\count145
 \everyMPtoPDFconversion=\toks39
@@ -1037,229 +1041,233 @@ File: umsb.fd 2009/06/22 v3.00 AMS symbols B
 <xray.jpg, id=19, 565.11125pt x 618.31pt>
 File: xray.jpg Graphic file (type jpg)
  <use xray.jpg>
-Package pdftex.def Info: xray.jpg used on input line 44.
+Package pdftex.def Info: xray.jpg used on input line 45.
 (pdftex.def)             Requested size: 341.43306pt x 373.58339pt.
  [5 <C:/Users/Uz0r/Documents/vkr/xray.jpg>] <trakt.png, id=23, 712.6625pt x 337
 .26pt>
 File: trakt.png Graphic file (type png)
  <use trakt.png>
-Package pdftex.def Info: trakt.png used on input line 53.
+Package pdftex.def Info: trakt.png used on input line 54.
 (pdftex.def)             Requested size: 341.43306pt x 161.57933pt.
 
 <shpaga_graph.png, id=24, 877.2775pt x 346.29375pt>
 File: shpaga_graph.png Graphic file (type png)
  <use shpaga_graph.png>
-Package pdftex.def Info: shpaga_graph.png used on input line 62.
+Package pdftex.def Info: shpaga_graph.png used on input line 63.
 (pdftex.def)             Requested size: 341.43306pt x 134.77924pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
 
 [6 <C:/Users/Uz0r/Documents/vkr/trakt.png>]
 <shpaga_spect.png, id=28, 877.2775pt x 346.29375pt>
 File: shpaga_spect.png Graphic file (type png)
  <use shpaga_spect.png>
-Package pdftex.def Info: shpaga_spect.png used on input line 77.
+Package pdftex.def Info: shpaga_spect.png used on input line 78.
 (pdftex.def)             Requested size: 341.43306pt x 134.77924pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
 
 [7 <C:/Users/Uz0r/Documents/vkr/shpaga_graph.png>]
 <larynx.png, id=32, 699.61375pt x 190.7125pt>
 File: larynx.png Graphic file (type png)
  <use larynx.png>
-Package pdftex.def Info: larynx.png used on input line 87.
+Package pdftex.def Info: larynx.png used on input line 88.
 (pdftex.def)             Requested size: 341.43306pt x 93.07454pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[8 <C:/Users/Uz0r/Documents/vkr/shpaga_spect.png>]
+ [8 <C:/Users/Uz0r/Documents/vkr/shpaga_spect.png>]
 <i1_form.png, id=37, 652.68843pt x 384.6872pt>
 File: i1_form.png Graphic file (type png)
  <use i1_form.png>
-Package pdftex.def Info: i1_form.png used on input line 96.
+Package pdftex.def Info: i1_form.png used on input line 97.
 (pdftex.def)             Requested size: 341.43306pt x 201.2418pt.
 
 <i1_spect.png, id=38, 652.68843pt x 384.6872pt>
 File: i1_spect.png Graphic file (type png)
  <use i1_spect.png>
-Package pdftex.def Info: i1_spect.png used on input line 104.
+Package pdftex.def Info: i1_spect.png used on input line 105.
 (pdftex.def)             Requested size: 341.43306pt x 201.2418pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[9 <C:/Users/Uz0r/Documents/vkr/larynx.png> <C:/Users/Uz0r/Documents/vkr/i1_for
-m.png (PNG copy)>] <speech_filt.png, id=42, 449.42906pt x 213.04594pt>
+ [9 <C:/Users/Uz0r/Documents/vkr/larynx.png> <C:/Users/Uz0r/Documents/vkr/i1_fo
+rm.png (PNG copy)>] [10 <C:/Users/Uz0r/Documents/vkr/i1_spect.png (PNG copy)>]
+<speech_filt.png, id=45, 449.42906pt x 213.04594pt>
 File: speech_filt.png Graphic file (type png)
-
-<use speech_filt.png>
-Package pdftex.def Info: speech_filt.png used on input line 117.
+ <use speech_filt.png>
+Package pdftex.def Info: speech_filt.png used on input line 118.
 (pdftex.def)             Requested size: 341.43306pt x 161.85806pt.
- [10 <C:/Users/Uz0r/Documents/vkr/i1_spect.png (PNG copy)>] [11 <C:/Users/Uz0r/
-Documents/vkr/speech_filt.png>] [12] [13] [14] [15]
-[16]
-Overfull \hbox (8.40146pt too wide) in paragraph at lines 214--215
+
+[11] [12 <C:/Users/Uz0r/Documents/vkr/speech_filt.png>] [13] [14] [15] [16]
+[17]
+Overfull \hbox (8.40146pt too wide) in paragraph at lines 216--217
 []\T2A/ftm/m/n/14.4 Задача груп-пи-ро-ва-ния (кла-сте-ри-за-ции) за-клю-ча-ет-с
 я в опре-де-ле-нии про-стран-
  []
 
-[17] [18]
-Overfull \hbox (5.52602pt too wide) in paragraph at lines 235--236
+[18] [19]
+Overfull \hbox (5.52602pt too wide) in paragraph at lines 237--238
 \T2A/ftm/m/n/14.4 мен-тов, на-зы-ва-е-мых ней-ро-на-ми, со-еди-ня-е-мых меж-ду 
 со-бой ни-те-об-раз-ны-ми отрост-
  []
 
-<neuro.png, id=79, 352.31625pt x 328.22626pt>
+<neuro.png, id=82, 352.31625pt x 328.22626pt>
 File: neuro.png Graphic file (type png)
  <use neuro.png>
-Package pdftex.def Info: neuro.png used on input line 239.
+Package pdftex.def Info: neuro.png used on input line 241.
 (pdftex.def)             Requested size: 284.52756pt x 265.0705pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[19]
+[20]
 
-LaTeX Warning: Command \textellipsis invalid in math mode on input line 257.
+LaTeX Warning: Command \textellipsis invalid in math mode on input line 260.
 
-<percept.png, id=83, 398.48875pt x 183.68625pt>
+<percept.png, id=87, 398.48875pt x 183.68625pt>
 File: percept.png Graphic file (type png)
  <use percept.png>
-Package pdftex.def Info: percept.png used on input line 261.
+Package pdftex.def Info: percept.png used on input line 264.
 (pdftex.def)             Requested size: 341.43306pt x 157.39249pt.
- [20 <C:/Users/Uz0r/Documents/vkr/neuro.png>] [21 <C:/Users/Uz0r/Documents/vkr/
+ [21 <C:/Users/Uz0r/Documents/vkr/neuro.png>] [22 <C:/Users/Uz0r/Documents/vkr/
 percept.png>]
-<smm_3.png, id=93, 246.9225pt x 158.09062pt>
+<smm_3.png, id=96, 246.9225pt x 158.09062pt>
 File: smm_3.png Graphic file (type png)
  <use smm_3.png>
-Package pdftex.def Info: smm_3.png used on input line 281.
+Package pdftex.def Info: smm_3.png used on input line 284.
 (pdftex.def)             Requested size: 284.52756pt x 182.17668pt.
- [22 <C:/Users/Uz0r/Documents/vkr/smm_3.png>] <viterbi.png, id=99, 328.22626pt 
-x 196.735pt>
+ [23 <C:/Users/Uz0r/Documents/vkr/smm_3.png>] <viterbi.png, id=102, 328.22626pt
+ x 196.735pt>
 File: viterbi.png Graphic file (type png)
 
 <use viterbi.png>
-Package pdftex.def Info: viterbi.png used on input line 291.
+Package pdftex.def Info: viterbi.png used on input line 294.
 (pdftex.def)             Requested size: 284.52756pt x 170.54565pt.
- [23 <C:/Users/Uz0r/Documents/vkr/viterbi.png>] [24] [25]
-Overfull \hbox (1.8675pt too wide) in paragraph at lines 315--315
- \T2A/ftm/bx/n/20.74 КОЭФФИЦИЕНТОВ РЕ-ЧЕ-ВЫХ СИГ-НА-ЛОВ| 
- []
-
-[26] [27] [28] <a_mfcc.png, id=120, 524.71031pt x 1081.03876pt>
+ [24 <C:/Users/Uz0r/Documents/vkr/viterbi.png>] [25] [26]
+[27] [28] [29] <a_mfcc.png, id=123, 524.71031pt x 1081.03876pt>
 File: a_mfcc.png Graphic file (type png)
 
 <use a_mfcc.png>
-Package pdftex.def Info: a_mfcc.png used on input line 382.
+Package pdftex.def Info: a_mfcc.png used on input line 387.
 (pdftex.def)             Requested size: 247.06767pt x 509.02852pt.
- <i_mfcc.png, id=121, 524.71031pt x 1081.03876pt>
+ <i_mfcc.png, id=124, 524.71031pt x 1081.03876pt>
 File: i_mfcc.png Graphic file (type png)
 
 <use i_mfcc.png>
-Package pdftex.def Info: i_mfcc.png used on input line 388.
+Package pdftex.def Info: i_mfcc.png used on input line 393.
 (pdftex.def)             Requested size: 247.06767pt x 509.02852pt.
- [29 <C:/Users/Uz0r/Documents/vkr/a_mfcc.png> <C:/Users/Uz0r/Documents/vkr/i_mf
+ [30 <C:/Users/Uz0r/Documents/vkr/a_mfcc.png> <C:/Users/Uz0r/Documents/vkr/i_mf
 cc.png>]
-<decrease_legend.png, id=125, 572.1375pt x 399.74344pt>
+<decrease_legend.png, id=128, 572.1375pt x 399.74344pt>
 File: decrease_legend.png Graphic file (type png)
 
 <use decrease_legend.png>
-Package pdftex.def Info: decrease_legend.png used on input line 401.
+Package pdftex.def Info: decrease_legend.png used on input line 406.
 (pdftex.def)             Requested size: 426.79134pt x 298.19653pt.
- [30 <C:/Users/Uz0r/Documents/vkr/decrease_legend.png (PNG copy)>] [31] <sakoe1
-.png, id=132, 769.87625pt x 576.1525pt>
+ [31 <C:/Users/Uz0r/Documents/vkr/decrease_legend.png (PNG copy)>] [32] <sakoe1
+.png, id=136, 769.87625pt x 576.1525pt>
 File: sakoe1.png Graphic file (type png)
 
 <use sakoe1.png>
-Package pdftex.def Info: sakoe1.png used on input line 427.
+Package pdftex.def Info: sakoe1.png used on input line 433.
 (pdftex.def)             Requested size: 341.43306pt x 255.5211pt.
- [32 <C:/Users/Uz0r/Documents/vkr/sakoe1.png>] [33]
-<block1.png, id=140, 392.4261pt x 655.0071pt>
+ [33 <C:/Users/Uz0r/Documents/vkr/sakoe1.png>] [34]
+<block1.png, id=143, 392.4261pt x 655.0071pt>
 File: block1.png Graphic file (type png)
  <use block1.png>
-Package pdftex.def Info: block1.png used on input line 481.
+Package pdftex.def Info: block1.png used on input line 487.
 (pdftex.def)             Requested size: 426.79134pt x 712.39442pt.
- [34]
-<block2.png, id=144, 290.7663pt x 650.43pt>
+ [35]
+<block2.png, id=147, 290.7663pt x 650.43pt>
 File: block2.png Graphic file (type png)
  <use block2.png>
-Package pdftex.def Info: block2.png used on input line 488.
+Package pdftex.def Info: block2.png used on input line 494.
 (pdftex.def)             Requested size: 312.9803pt x 700.1514pt.
 
 Overfull \vbox (17.92073pt too high) has occurred while \output is active []
 
 
-[35 <C:/Users/Uz0r/Documents/vkr/block1.png>]
+[36 <C:/Users/Uz0r/Documents/vkr/block1.png>]
 Overfull \vbox (5.6777pt too high) has occurred while \output is active []
 
 
-[36 <C:/Users/Uz0r/Documents/vkr/block2.png>]
-<d_matrix.png, id=151, 572.1375pt x 399.74344pt>
+[37 <C:/Users/Uz0r/Documents/vkr/block2.png>]
+<d_matrix.png, id=154, 572.1375pt x 399.74344pt>
 File: d_matrix.png Graphic file (type png)
  <use d_matrix.png>
-Package pdftex.def Info: d_matrix.png used on input line 497.
+Package pdftex.def Info: d_matrix.png used on input line 503.
 (pdftex.def)             Requested size: 341.43306pt x 238.5548pt.
 
-<dist_4.png, id=152, 422.32782pt x 316.18124pt>
+<dist_4.png, id=155, 422.32782pt x 316.18124pt>
 File: dist_4.png Graphic file (type png)
  <use dist_4.png>
-Package pdftex.def Info: dist_4.png used on input line 510.
+Package pdftex.def Info: dist_4.png used on input line 516.
 (pdftex.def)             Requested size: 341.43306pt x 255.62294pt.
- [37 <C:/Users/Uz0r/Documents/vkr/d_matrix.png (PNG copy)>]
-<err_8.png, id=156, 572.1375pt x 399.74344pt>
+ [38 <C:/Users/Uz0r/Documents/vkr/d_matrix.png (PNG copy)>]
+<err_8.png, id=161, 572.1375pt x 399.74344pt>
 File: err_8.png Graphic file (type png)
  <use err_8.png>
-Package pdftex.def Info: err_8.png used on input line 517.
+Package pdftex.def Info: err_8.png used on input line 523.
 (pdftex.def)             Requested size: 341.43306pt x 238.5548pt.
- [38 <C:/Users/Uz0r/Documents/vkr/dist_4.png> <C:/Users/Uz0r/Documents/vkr/err_
-8.png (PNG copy)>] <err_5.png, id=161, 524.71031pt x 368.1253pt>
+ [39 <C:/Users/Uz0r/Documents/vkr/dist_4.png> <C:/Users/Uz0r/Documents/vkr/err_
+8.png (PNG copy)>] <err_5.png, id=165, 524.71031pt x 368.1253pt>
 File: err_5.png Graphic file (type png)
  <use err_5.png>
-Package pdftex.def Info: err_5.png used on input line 531.
+Package pdftex.def Info: err_5.png used on input line 537.
 (pdftex.def)             Requested size: 341.43306pt x 239.54823pt.
- [39 <C:/Users/Uz0r/Documents/vkr/err_5.png (PNG copy)>]
-<clear_4.png, id=165, 524.71031pt x 368.1253pt>
+ [40 <C:/Users/Uz0r/Documents/vkr/err_5.png (PNG copy)>]
+<clear_4.png, id=169, 524.71031pt x 368.1253pt>
 File: clear_4.png Graphic file (type png)
  <use clear_4.png>
-Package pdftex.def Info: clear_4.png used on input line 543.
+Package pdftex.def Info: clear_4.png used on input line 549.
 (pdftex.def)             Requested size: 341.43306pt x 239.54823pt.
 
-<60db_4.png, id=166, 524.71031pt x 368.1253pt>
+<60db_4.png, id=170, 524.71031pt x 368.1253pt>
 File: 60db_4.png Graphic file (type png)
  <use 60db_4.png>
-Package pdftex.def Info: 60db_4.png used on input line 550.
+Package pdftex.def Info: 60db_4.png used on input line 556.
 (pdftex.def)             Requested size: 341.43306pt x 239.54823pt.
 
-<40db_4.png, id=167, 524.71031pt x 368.1253pt>
+<40db_4.png, id=171, 524.71031pt x 368.1253pt>
 File: 40db_4.png Graphic file (type png)
  <use 40db_4.png>
-Package pdftex.def Info: 40db_4.png used on input line 557.
+Package pdftex.def Info: 40db_4.png used on input line 563.
 (pdftex.def)             Requested size: 341.43306pt x 239.54823pt.
- [40 <C:/Users/Uz0r/Documents/vkr/clear_4.png (PNG copy)> <C:/Users/Uz0r/Docume
-nts/vkr/60db_4.png (PNG copy)>] <snr-err.png, id=171, 524.71031pt x 368.1253pt>
+ [41 <C:/Users/Uz0r/Documents/vkr/clear_4.png (PNG copy)> <C:/Users/Uz0r/Docume
+nts/vkr/60db_4.png (PNG copy)>] <clear_6.png, id=175, 524.71031pt x 368.1253pt>
+File: clear_6.png Graphic file (type png)
+
+<use clear_6.png>
+Package pdftex.def Info: clear_6.png used on input line 572.
+(pdftex.def)             Requested size: 341.43306pt x 239.54823pt.
+ <60db_6.png, id=176, 524.71031pt x 368.1253pt>
+File: 60db_6.png Graphic file (type png)
+
+<use 60db_6.png>
+Package pdftex.def Info: 60db_6.png used on input line 579.
+(pdftex.def)             Requested size: 341.43306pt x 239.54823pt.
+ [42 <C:/Users/Uz0r/Documents/vkr/40db_4.png (PNG copy)> <C:/Users/Uz0r/Documen
+ts/vkr/clear_6.png (PNG copy)>]
+<40db_6.png, id=180, 524.71031pt x 368.1253pt>
+File: 40db_6.png Graphic file (type png)
+ <use 40db_6.png>
+Package pdftex.def Info: 40db_6.png used on input line 586.
+(pdftex.def)             Requested size: 341.43306pt x 239.54823pt.
+
+<20db_6.png, id=181, 524.71031pt x 368.1253pt>
+File: 20db_6.png Graphic file (type png)
+ <use 20db_6.png>
+Package pdftex.def Info: 20db_6.png used on input line 593.
+(pdftex.def)             Requested size: 341.43306pt x 239.54823pt.
+ [43 <C:/Users/Uz0r/Documents/vkr/60db_6.png (PNG copy)> <C:/Users/Uz0r/Documen
+ts/vkr/40db_6.png (PNG copy)>] <snr-err.png, id=185, 524.71031pt x 368.1253pt>
 File: snr-err.png Graphic file (type png)
 
 <use snr-err.png>
-Package pdftex.def Info: snr-err.png used on input line 567.
+Package pdftex.def Info: snr-err.png used on input line 604.
 (pdftex.def)             Requested size: 341.43306pt x 239.54823pt.
- [41 <C:/Users/Uz0r/Documents/vkr/40db_4.png (PNG copy)> <C:/Users/Uz0r/Documen
-ts/vkr/snr-err.png (PNG copy)>] [42] [43]
-Overfull \hbox (1.41116pt too wide) in paragraph at lines 587--587
- |\T2A/ftm/bx/n/20.74 СПИСОК ИС-ПОЛЬ-ЗО-ВАН-НЫХ ИС-ТОЧ-НИ-КОВ| 
- []
+ [44 <C:/Users/Uz0r/Documents/vkr/20db_6.png (PNG copy)>]
+[45 <C:/Users/Uz0r/Documents/vkr/snr-err.png (PNG copy)>] [46] [47]
 
-[44] 
 AED: lastpage setting LastPage
-[45] (C:\Users\Uz0r\Documents\vkr\vkr.aux) ) 
+[48] (C:\Users\Uz0r\Documents\vkr\vkr.aux) ) 
 Here is how much of TeX's memory you used:
- 7694 strings out of 494045
- 109738 string characters out of 3148390
- 190801 words of memory out of 3000000
- 10658 multiletter control sequences out of 15000+200000
- 28614 words of font info for 66 fonts, out of 3000000 for 9000
+ 7787 strings out of 494045
+ 111092 string characters out of 3148390
+ 195849 words of memory out of 3000000
+ 10759 multiletter control sequences out of 15000+200000
+ 26614 words of font info for 51 fonts, out of 3000000 for 9000
  716 hyphenation exceptions out of 8191
  50i,11n,42p,2410b,486s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/
@@ -1273,10 +1281,11 @@ ype1/public/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publi
 c/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfon
 ts/cm/cmsy7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/pscyr/times.pfb
 ><C:/Program Files/MiKTeX 2.9/fonts/type1/public/pscyr/times.pfb><C:/Program Fi
-les/MiKTeX 2.9/fonts/type1/public/pscyr/timesbd.pfb>
-Output written on vkr.pdf (44 pages, 1149962 bytes).
+les/MiKTeX 2.9/fonts/type1/public/pscyr/timesbd.pfb><C:/Program Files/MiKTeX 2.
+9/fonts/type1/public/pscyr/timesbi.pfb>
+Output written on vkr.pdf (47 pages, 1174885 bytes).
 PDF statistics:
- 229 PDF objects out of 1000 (max. 8388607)
+ 246 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 151 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 171 words of extra memory for PDF output out of 10000 (max. 10000000)
 
